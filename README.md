@@ -1,8 +1,7 @@
 # Simulator of Infrastructure System  
 
 ## Project Overview  
-This project implements a **WPF MVVM application** named **NetworkService** for monitoring measured values across entities in a system. Measurements are provided by an external application, **MeteringSimulator**, which sends data to the NetworkService at random intervals. The application is designed for **CG4 target users** who require precise and clear numerical data, graphs, and undo functionalities for error prevention.
-
+This project implements a **WPF MVVM application** named **NetworkService** for monitoring measured values across entities in a system. Measurements are provided by an external application, **MeteringSimulator**, which sends data to the NetworkService at random intervals. 
 ---
 
 ## Features  
